@@ -6,7 +6,7 @@ This project create a small application for predicting airline delay.
 
 ## Files
 
-### Cleaned_data.csv
+### cleaned_data.csv
 
 This is a cleaned data file containing flight delay data for machine learning training.
 
