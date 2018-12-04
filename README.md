@@ -8,7 +8,7 @@ This project create a small application for predicting airline delay.
 
 ### cleaned_data.csv
 
-This is a cleaned data file containing flight delay data for machine learning training.
+This is a cleaned data file containing flight delay data for machine learning training, which is from my another project https://github.com/torpedomt/Predicting-Airline-Delays.
 
 ### tests.py
 
